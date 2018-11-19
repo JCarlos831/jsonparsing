@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79c7c78-683c-4ff8-a3f7-695227672acd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JSONParsingPractice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JSONParsingPractice1/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db18722d-c5d7-423f-b2cb-651040eb8575" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JSONParsingPractice1/.idea/.idea.JSONParsingPractice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSONParsingPractice1/.idea/.idea.JSONParsingPractice1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1021251244">
+    <session id="-1217764748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,31 +30,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1401" />
+          <entry key="cs" value="721" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1401" />
+          <entry key="C#" value="721" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSONParsingPractice1/Program.cs">
+        <entry file="file://$PROJECT_DIR$/JSONParsingPractice2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            <state relative-caret-position="306">
+              <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
               <folding>
-                <marker date="1542664647078" expanded="true" signature="6:107" ph="..." />
-                <marker date="1542664647078" expanded="true" signature="139:2323" ph="{...}" />
-                <marker date="1542664647078" expanded="true" signature="159:2321" ph="{...}" />
-                <marker date="1542664647078" expanded="true" signature="205:2315" ph="{...}" />
-                <marker date="1542664647078" expanded="true" signature="641:725" ph="{...}" />
-                <marker date="1542664647078" expanded="true" signature="755:839" ph="{...}" />
-                <marker date="1542664647078" expanded="true" signature="1376:2258" ph="{...}" />
+                <marker date="1542671337398" expanded="true" signature="6:84" ph="..." />
+                <marker date="1542671337398" expanded="true" signature="116:1301" ph="{...}" />
+                <marker date="1542671337398" expanded="true" signature="136:1299" ph="{...}" />
+                <marker date="1542671337398" expanded="true" signature="182:1293" ph="{...}" />
+                <marker date="1542671337398" expanded="true" signature="985:1271" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,12 +64,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JSONParsingPractice1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JSONParsingPractice2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSONParsingPractice1/Program.cs" />
+        <option value="$PROJECT_DIR$/JSONParsingPractice2/Program.cs" />
       </list>
     </option>
   </component>
@@ -93,24 +90,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="JSONParsingPractice1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="JSONParsingPractice1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="JSONParsingPractice1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,9 +115,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/JSONParsingPractice1/bin/Debug/netcoreapp2.1/JSONParsingPractice1.dll" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONParsingPractice1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSONParsingPractice2" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs>
         <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
@@ -143,7 +126,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JSONParsingPractice1/JSONParsingPractice1.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JSONParsingPractice2/JSONParsingPractice2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -160,18 +143,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f79c7c78-683c-4ff8-a3f7-695227672acd" name="Default Changelist" comment="" />
-      <created>1542644714254</created>
+      <changelist id="db18722d-c5d7-423f-b2cb-651040eb8575" name="Default Changelist" comment="" />
+      <created>1542669983308</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542644714254</updated>
-      <workItem from="1542644715329" duration="105000" />
-      <workItem from="1542646535558" duration="7857000" />
+      <updated>1542669983308</updated>
+      <workItem from="1542669984520" duration="1343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7962000" />
+    <option name="totallyTimeSpent" value="1343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,37 +166,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32961586" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Floobits" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32961586" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Floobits" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.25597748" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -230,18 +213,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSONParsingPractice1/Program.cs">
+    <entry file="file://$PROJECT_DIR$/JSONParsingPractice2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        <state relative-caret-position="306">
+          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
           <folding>
-            <marker date="1542664647078" expanded="true" signature="6:107" ph="..." />
-            <marker date="1542664647078" expanded="true" signature="139:2323" ph="{...}" />
-            <marker date="1542664647078" expanded="true" signature="159:2321" ph="{...}" />
-            <marker date="1542664647078" expanded="true" signature="205:2315" ph="{...}" />
-            <marker date="1542664647078" expanded="true" signature="641:725" ph="{...}" />
-            <marker date="1542664647078" expanded="true" signature="755:839" ph="{...}" />
-            <marker date="1542664647078" expanded="true" signature="1376:2258" ph="{...}" />
+            <marker date="1542671337398" expanded="true" signature="6:84" ph="..." />
+            <marker date="1542671337398" expanded="true" signature="116:1301" ph="{...}" />
+            <marker date="1542671337398" expanded="true" signature="136:1299" ph="{...}" />
+            <marker date="1542671337398" expanded="true" signature="182:1293" ph="{...}" />
+            <marker date="1542671337398" expanded="true" signature="985:1271" ph="{...}" />
           </folding>
         </state>
       </provider>

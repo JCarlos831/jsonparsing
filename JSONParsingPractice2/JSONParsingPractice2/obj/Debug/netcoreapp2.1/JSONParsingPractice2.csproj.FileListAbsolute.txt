@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.dll
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/bin/Debug/netcoreapp2.1/JSONParsingPractice2.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.dll
+/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice2/JSONParsingPractice2/obj/Debug/netcoreapp2.1/JSONParsingPractice2.pdb
