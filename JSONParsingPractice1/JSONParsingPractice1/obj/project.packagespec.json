@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice1/JSONParsingPractice1/JSONParsingPractice1.csproj",
+    "projectName": "JSONParsingPractice1",
+    "projectPath": "/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice1/JSONParsingPractice1/JSONParsingPractice1.csproj",
+    "outputPath": "/Users/JuanCMontoya/Projects/RiderProjects/JSONParsingPractice/JSONParsingPractice1/JSONParsingPractice1/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.2, )"
+        },
+        "RestSharp": {
+          "target": "Package",
+          "version": "[106.5.4, )"
+        },
+        "System.Data.SQLite": {
+          "target": "Package",
+          "version": "[1.0.109.2, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
